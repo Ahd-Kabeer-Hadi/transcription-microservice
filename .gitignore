@@ -1,0 +1,6 @@
+.env
+/coverage
+combined.log
+error.log
+/dist
+/node_modules
